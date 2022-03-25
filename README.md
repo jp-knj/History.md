@@ -72,3 +72,12 @@
 ## 研究分野
 
 ## 個人活動
+[Github](https://github.com/jp-knj)
+[Zenn](https://zenn.dev/ignorant_kenji)
+[Twitter](https://twitter.com/jp_knj)
+[campass](https://connpass.com/user/ignorant_kenji/)
+
+### 参加している学習・技術コミュニティ
+[PrAha Challenge](https://praha-challenge.com/)
+[Tech Commit](https://www.tech-commit.jp/)
+
