@@ -51,18 +51,101 @@
   - Github(1年)
 
 ## 職務詳細
-- 期間
+- 期間2022.2~
+- 事業内容
+- プロジェクト内容
+    - 概要
+    - 環境
+      - 【OS】
+      - 【使用技術】
+        - javascript
+        - TypeScript
+        - Vue.js
+        - Nuxt.js / nuxt-property-decorator
+        - Pug
+        - Sass
+        - AWS amplify
+    - 主な業務内容
+      - アクセシビリティについて
+    - 創意工夫
+      - PRレビューでの補足
+    - 実績
+  
+- 期間 2022.1~
 - 事業内容
 - プロジェクト内容
   - 概要
+  - 環境
+    - 【OS】
+    - 【使用技術】
+      - pnpm
+      - React
+      - D3.js
+      - Vite
+      - Vitest
+      - node.js
+      - CSS modules
   - 主な業務内容
   - 創意工夫
   - 実績
 
-- 期間
+- 期間 2021.11 ~
+- 事業内容
+- プロジェクト内容
+    - 概要
+        - アクセシビリティ
+    - 環境
+        - 【OS】Mac
+        - 【使用技術】
+            - TypeScript
+            - React
+            - Next.js
+            - Recoil
+            - useSWR
+            - Big.js
+            - Contentful
+            - Material UI
+            - Emotion
+    - 主な業務内容
+    - 創意工夫
+    - 実績
+  
+- 期間 2021.7 ~
+- 事業内容
+- プロジェクト内容
+    - 概要
+      - アクセシビリティ
+    - 環境
+        - 【OS】Mac
+        - 【使用技術】
+            - TypeScript
+            - React
+            - Next.js
+            - Github Actions
+            - Storybook
+            - PostCSS
+                - TailwindCSS
+    - 主な業務内容
+    - 創意工夫
+    - 実績
+  
+- 期間 2021.6 ~
 - 事業内容 
 - プロジェクト内容
   - 概要
+  - 環境
+    - 【OS】Mac
+    - 【使用技術】
+      - TypeScript
+      - React
+      - useSWR
+      - Next.js
+      - GraphQL
+      - WordPress
+      - Vercel
+      - Github Actions
+      - PostCSS
+        - TailwindCSS
   - 主な業務内容
   - 創意工夫
   - 実績
@@ -94,6 +177,15 @@
     - 実績
       - ガイドライン
       - タスクの管理・調節
+
+- 期間 2020.4  〜 2021.3
+- 事業内容
+- プロジェクト内容
+    - 概要
+    - 環境
+    - 主な業務内容
+    - 創意工夫
+    - 実績
 
 ## 学歴
 
