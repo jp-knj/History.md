@@ -10,45 +10,45 @@
 ## 活かせる経験・知識
 ### 実務開発経験
 - 言語
-  - HTML
-  - CSS
-  - Isomorphic JavaScript
-  - TypeScript
+  - HTML(1年)
+  - CSS(1年)
+  - Isomorphic JavaScript(1年)
+  - TypeScript(1年)
   
 - ライブラリ 
-  - React
-  - D3.js
+  - React(1年)
+  - D3.js(0.5年)
 
 - フレームワーク 
-  - Next.js
-  - Nuxt.js
-  - PostCSS
-    - TailwindCSS
-  - Sass
+  - Next.js(0.5年)
+  - Nuxt.js(0.5年)
+  - PostCSS(0.5年)
+    - TailwindCSS(0.5年)
+  - Sass(0.5年)
 
 - デザイン
-  - Figma
+  - Figma(0.5年)
   
 - その他
-  - Github
-  - Github Actions
-  - Vercel
-- マネジメント
+  - Github(1年)
+  - Github Actions(0.5年)
+  - Vercel(0.3年)
+- マネジメント(2年)
   - オフショア開発でブリッジディレクターとして3名規模のマネジメントを経験(工程管理/進捗管理/品質管理)
 ### 個人開発経験
 - 使用技術
-  - JSX
-  - Emotion
-  - Material UI
-  - TypeScript
-  - React
-  - Redux
+  - JSX(1年)
+  - Emotion(0.5年)
+  - Material UI(0.5年)
+  - TypeScript(1年)
+  - React(1年)
+  - Redux(0.5年)
 - デザイン
-  - Figma
+  - Figma(1年)
 - その他
-  - Heroku
-  - MongoDB
-  - Github
+  - Heroku(0.5年)
+  - MongoDB(0.5年)
+  - Github(1年)
 
 ## 職務詳細
 - 期間
